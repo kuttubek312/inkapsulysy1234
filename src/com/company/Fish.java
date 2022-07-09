@@ -6,17 +6,14 @@ public class Fish {
     private int age;
 
     public String getName() {
-
         return name;
     }
 
     public String getPoroda() {
-
         return poroda;
     }
 
     public int getAge() {
-
         return age;
     }
 
